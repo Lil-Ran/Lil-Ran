@@ -21,7 +21,7 @@ Passionate about coding to make the world better <br />
   <img src="https://skillicons.dev/icons?i=docker">
   <img src="https://skillicons.dev/icons?i=bash">
   <img src="https://skillicons.dev/icons?i=vscode">
-  <img src="https://skills.syvixor.com/api/icons?i=apifox">
+  <img src="https://skills.syvixor.com/api/icons?i=apifox&radius=60">
 </p>
 
 ## Projects
@@ -60,7 +60,7 @@ Passionate about coding to make the world better <br />
 
 <p align="center">
 ✉️ <a href="mailto:lilran4869@qq.com" target="_blank">lilran4869@qq.com</a>
-  |  🌐 Blog: <a href="https://blog.xinshi.fun/" target="_blank">https://blog.xinshi.fun/</a>
+ | 🌐 Blog: <a href="https://blog.xinshi.fun/" target="_blank">https://blog.xinshi.fun/</a>
 <br />
 <br />
 <a href="https://qm.qq.com/q/hKKN9Y5bO0" target="_blank">
@@ -81,6 +81,10 @@ If you like my work, consider sponsoring me! Your support helps me continue to c
 
 <details>
 <summary>Global: Donate to me via Wise</summary>
+
+<img width="200" align="right" src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wise.webp">
+
+My Wise tag: `stasc07`
 
 https://wise.com/pay/me/stasc07
 </details>
