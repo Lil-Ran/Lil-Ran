@@ -9,22 +9,19 @@ Passionate about coding to make the world better <br />
 </p>
 
 <p align="center">
-  <a href="https://www.moonbitlang.cn/" target="_blank">
-    <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/moonbit.svg">
-  </a>
-  <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=python,ts,react,rust,dotnet,cpp,linux,docker,bash,vscode"> -->
-    <img src="https://skillicons.dev/icons?i=python">
-    <img src="https://skillicons.dev/icons?i=ts">
-    <img src="https://skillicons.dev/icons?i=react">
-    <img src="https://skillicons.dev/icons?i=rust">
-    <img src="https://skillicons.dev/icons?i=dotnet">
-    <img src="https://skillicons.dev/icons?i=cpp">
-    <img src="https://skillicons.dev/icons?i=linux">
-    <img src="https://skillicons.dev/icons?i=docker">
-    <img src="https://skillicons.dev/icons?i=bash">
-    <img src="https://skillicons.dev/icons?i=vscode">
-  </a>
+  <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/moonbit.svg">
+  <!-- <img src="https://skillicons.dev/icons?i=python,ts,react,rust,dotnet,cpp,linux,docker,bash,vscode"> -->
+  <img src="https://skillicons.dev/icons?i=python">
+  <img src="https://skillicons.dev/icons?i=ts">
+  <img src="https://skillicons.dev/icons?i=react">
+  <img src="https://skillicons.dev/icons?i=rust">
+  <img src="https://skillicons.dev/icons?i=dotnet">
+  <img src="https://skillicons.dev/icons?i=cpp">
+  <img src="https://skillicons.dev/icons?i=linux">
+  <img src="https://skillicons.dev/icons?i=docker">
+  <img src="https://skillicons.dev/icons?i=bash">
+  <img src="https://skillicons.dev/icons?i=vscode">
+  <img src="https://skills.syvixor.com/api/icons?i=apifox">
 </p>
 
 ## Projects
