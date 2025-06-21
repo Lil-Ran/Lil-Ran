@@ -9,6 +9,12 @@ Passionate about coding to make the world better <br />
 </p>
 
 <p align="center">
+  <a href="https://wakatime.com/@LilRan" target="_blank">
+    <img src="https://wakatime.com/badge/user/018e4199-cdc3-4072-a62e-0e9eb18a8ed1.svg" alt="Total time coded since Mar 15 2024" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/moonbit.svg">
   <!-- <img src="https://skillicons.dev/icons?i=python,ts,react,rust,dotnet,cpp,linux,docker,bash,vscode"> -->
   <img src="https://skillicons.dev/icons?i=python">
@@ -67,7 +73,9 @@ Passionate about coding to make the world better <br />
   <img src="https://img.shields.io/badge/QQ%20Group%20(zh_CN)-895699616-blue?style=for-the-badge&logo=qq" alt="QQ Group (zh-CN): 895699616">
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/WeChat%20Public%20Account-新实-green?style=for-the-badge&logo=wechat" alt="WeChat Public Account: 新实">
+<a href="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wechatpub.webp" target="_blank">
+  <img src="https://img.shields.io/badge/WeChat%20Public%20Account-新实-green?style=for-the-badge&logo=wechat" alt="WeChat Public Account: 新实">
+</a>
 <!-- &nbsp;
 <a href="https://space.bilibili.com/478892019" target="_blank">
   <img src="https://img.shields.io/badge/Bilibili-新实LilRan-orange?style=for-the-badge&logo=bilibili" alt="Bilibili: 新实LilRan">
@@ -82,7 +90,9 @@ If you like my work, consider sponsoring me! Your support helps me continue to c
 <details>
 <summary>Global: Donate to me via Wise</summary>
 
-<img width="200" align="right" src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wise.webp">
+<a href="https://wise.com/pay/me/stasc07" target="_blank">
+  <img width="150" align="right" src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wise.webp">
+</a>
 
 My Wise tag: `stasc07`
 
@@ -92,10 +102,15 @@ https://wise.com/pay/me/stasc07
 <details>
 <summary>Donate to me via Alipay or WeChat</summary>
 
-Sit and relax, I will update this section later.
+<p align="center">
+  <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/alipay.webp" alt="Alipay QR Code" height="200">
+  <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wechatpay.webp" alt="WeChat Pay QR Code" height="200">
+</p>
 </details>
 
 ## Graphs
+
+<p align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <picture>
@@ -150,3 +165,5 @@ Sit and relax, I will update this section later.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lil-Ran" />
   </picture>
 </a>
+
+</p>
