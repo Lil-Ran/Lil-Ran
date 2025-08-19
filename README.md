@@ -2,7 +2,7 @@
 
 <p align="center">
 I'm LilRan, a university student from China <br />
-Founder of <a href="https://github.com/Lil-House" target="_blank">LilHouse</a> Team | Organizer of LilCTF Competition <br />
+Founder of <a href="https://github.com/Lil-House" target="_blank">LilHouse</a> Team | Organizer of <a href="https://github.com/Lil-House/LilCTF-2025" target="_blank">LilCTF</a> <br />
 Striving to become a full-stack developer <br />
 Interested in compilers and decompilers, web development, and cybersecurity <br />
 Passionate about coding to make the world better <br />
@@ -27,7 +27,6 @@ Passionate about coding to make the world better <br />
   <img src="https://skillicons.dev/icons?i=docker">
   <img src="https://skillicons.dev/icons?i=bash">
   <img src="https://skillicons.dev/icons?i=vscode">
-  <img src="https://skills.syvixor.com/api/icons?i=apifox&radius=60">
 </p>
 
 ## Projects
