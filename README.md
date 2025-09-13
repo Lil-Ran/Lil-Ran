@@ -109,7 +109,7 @@ https://wise.com/pay/me/stasc07
 
 ## Graphs
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <picture>
@@ -122,18 +122,6 @@ https://wise.com/pay/me/stasc07
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Lil-Ran&hide=issues&show=prs_merged&show_icons=true&include_all_commits=true" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Ran&layout=compact&langs_count=10&theme=github_dark_dimmed"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Ran&layout=compact&langs_count=10"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lil-Ran&layout=compact&langs_count=10" />
   </picture>
 </a>
 
@@ -165,4 +153,4 @@ https://wise.com/pay/me/stasc07
   </picture>
 </a>
 
-</p>
+</div>
