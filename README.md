@@ -68,10 +68,6 @@ Passionate about coding to make the world better <br />
  | 🌐 Blog: <a href="https://blog.xinshi.fun/" target="_blank">https://blog.xinshi.fun/</a>
 <br />
 <br />
-<a href="https://qm.qq.com/q/hKKN9Y5bO0" target="_blank">
-  <img src="https://img.shields.io/badge/QQ%20Group%20(zh_CN)-895699616-blue?style=for-the-badge&logo=qq" alt="QQ Group (zh-CN): 895699616">
-</a>
-&nbsp;
 <a href="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wechatpub.webp" target="_blank">
   <img src="https://img.shields.io/badge/WeChat%20Public%20Account-新实-green?style=for-the-badge&logo=wechat" alt="WeChat Public Account: 新实">
 </a>
