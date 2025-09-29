@@ -45,20 +45,6 @@ Passionate about coding to make the world better <br />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lil-House&repo=Pyarmor-Static-Unpack-1shot" />
     </picture>
   </a>
-  <!-- &nbsp;
-  <a href="https://github.com/Lil-Ran/build-bindiff-for-ida-9" target="_blank">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lil-Ran&repo=build-bindiff-for-ida-9&theme=github_dark_dimmed"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Lil-Ran&repo=build-bindiff-for-ida-9"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lil-Ran&repo=build-bindiff-for-ida-9" />
-    </picture>
-  </a> -->
 </p>
 
 ## Find Me
@@ -80,27 +66,13 @@ Passionate about coding to make the world better <br />
 
 ## Sponsor Me
 
-If you like my work, consider sponsoring me! Your support helps me continue to create and maintain projects.
-
 <details>
-<summary>Global: Donate to me via Wise</summary>
+<summary>If you like my work, consider sponsoring me! Your support helps me continue to create and maintain projects.</summary>
 
-<a href="https://wise.com/pay/me/stasc07" target="_blank">
-  <img width="150" align="right" src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wise.webp">
-</a>
+| WeChat Pay | Alipay | <div align="center"> Ko-fi, Patreon, Wise </div> |
+|:----------:|:------:|----------------------|
+| ![](assets/wechatpay.webp) | ![](assets/alipay.webp) | https://ko-fi.com/lilran <br /> https://patreon.com/Lil_Ran <br /> https://wise.com/pay/me/stasc07 |
 
-My Wise tag: `stasc07`
-
-https://wise.com/pay/me/stasc07
-</details>
-
-<details>
-<summary>Donate to me via Alipay or WeChat</summary>
-
-<p align="center">
-  <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/alipay.webp" alt="Alipay QR Code" height="200">
-  <img src="https://github.com/Lil-Ran/Lil-Ran/raw/main/assets/wechatpay.webp" alt="WeChat Pay QR Code" height="200">
-</p>
 </details>
 
 ## Graphs
